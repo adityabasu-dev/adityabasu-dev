@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Aditya Basu 👋
 
-<!--
-**adityabasu-dev/adityabasu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year CS student at RNSIT building at the intersection 
+of AI/ML and backend development.
 
-Here are some ideas to get you started:
+## What I work with
+- **AI/ML** — scikit-learn, TensorFlow, NLTK, NumPy
+- **Backend** — FastAPI, Node/Express, MongoDB, Redis
+- **Language** — Python (primary), JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- Expanding my AI/ML project portfolio
+- Getting deeper into the modern AI stack
+- Growing as a software engineer one project at a time
+
+## Projects
+- 🔍 [SMS/Email Spam Detector](https://github.com/adityabasu-dev/SMS-Email-spam-detector) — Live on Streamlit
+- 🤖 [AI From Scratch](https://github.com/adityabasu-dev/ai-from-scratch) — ML algorithms built with only NumPy
+
+## Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Basu-0a66c2)](https://www.linkedin.com/in/aditya-basu-7b6562363)
+
+## Fun fact
+I recharge by gaming 🎮
