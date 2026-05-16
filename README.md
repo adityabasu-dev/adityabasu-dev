@@ -18,7 +18,7 @@ of AI/ML and backend development.
 - 🤖 [AI From Scratch](https://github.com/adityabasu-dev/ai-from-scratch) — ML algorithms built with only NumPy
 
 ## Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Basu-0a66c2)](https://www.linkedin.com/in/aditya-basu-7b6562363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Basu-0a66c2)](https://www.linkedin.com/in/aditya-basu-7b5562363/)
 
 ## Fun fact
 I recharge by gaming 🎮
