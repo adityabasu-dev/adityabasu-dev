@@ -1,6 +1,6 @@
 # Hey, I'm Aditya Basu 👋
 
-First-year CS student at RNSIT building at the intersection 
+Second-year CS student at RNSIT building at the intersection 
 of AI/ML and backend development.
 
 ## What I work with
